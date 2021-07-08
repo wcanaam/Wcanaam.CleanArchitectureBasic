@@ -1,0 +1,15 @@
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.deps.json
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\bin\Debug\net5.0\ref\Wcanaam.CleanArchitectureBasic.Infra.Data.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.pdb
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.pdb
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.csprojAssemblyReference.cache
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.AssemblyInfoInputs.cache
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.AssemblyInfo.cs
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.csproj.CoreCompileInputs.cache
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.csproj.CopyComplete
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\obj\Debug\net5.0\ref\Wcanaam.CleanArchitectureBasic.Infra.Data.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Data\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.Data.pdb

@@ -1,0 +1,12 @@
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.deps.json
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\bin\Debug\net5.0\ref\Wcanaam.CleanArchitectureBasic.Domain.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.pdb
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.csprojAssemblyReference.cache
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.AssemblyInfoInputs.cache
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.AssemblyInfo.cs
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.csproj.CoreCompileInputs.cache
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\obj\Debug\net5.0\ref\Wcanaam.CleanArchitectureBasic.Domain.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Domain\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.pdb

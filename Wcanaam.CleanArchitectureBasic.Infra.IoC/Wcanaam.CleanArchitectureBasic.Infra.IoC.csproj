@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wcanaam.CleanArchitectureBasic.Application\Wcanaam.CleanArchitectureBasic.Application.csproj" />
+    <ProjectReference Include="..\Wcanaam.CleanArchitectureBasic.Domain\Wcanaam.CleanArchitectureBasic.Domain.csproj" />
+    <ProjectReference Include="..\Wcanaam.CleanArchitectureBasic.Infra.Data\Wcanaam.CleanArchitectureBasic.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

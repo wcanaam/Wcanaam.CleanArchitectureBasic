@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Wcanaam.CleanArchitectureBasic.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "Wcanaam.CleanArchitectureBasic.Application": "1.0.0",
+          "Wcanaam.CleanArchitectureBasic.Domain": "1.0.0",
+          "Wcanaam.CleanArchitectureBasic.Infra.Data": "1.0.0"
+        },
+        "runtime": {
+          "Wcanaam.CleanArchitectureBasic.Infra.IoC.dll": {}
+        }
+      },
+      "Wcanaam.CleanArchitectureBasic.Application/1.0.0": {
+        "dependencies": {
+          "Wcanaam.CleanArchitectureBasic.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Wcanaam.CleanArchitectureBasic.Application.dll": {}
+        }
+      },
+      "Wcanaam.CleanArchitectureBasic.Domain/1.0.0": {
+        "runtime": {
+          "Wcanaam.CleanArchitectureBasic.Domain.dll": {}
+        }
+      },
+      "Wcanaam.CleanArchitectureBasic.Infra.Data/1.0.0": {
+        "dependencies": {
+          "Wcanaam.CleanArchitectureBasic.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Wcanaam.CleanArchitectureBasic.Infra.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Wcanaam.CleanArchitectureBasic.Infra.IoC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wcanaam.CleanArchitectureBasic.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wcanaam.CleanArchitectureBasic.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Wcanaam.CleanArchitectureBasic.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

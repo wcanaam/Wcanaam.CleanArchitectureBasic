@@ -1,0 +1,15 @@
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.deps.json
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\bin\Debug\net5.0\ref\Wcanaam.CleanArchitectureBasic.Application.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.pdb
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Domain.pdb
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.csprojAssemblyReference.cache
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.AssemblyInfoInputs.cache
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.AssemblyInfo.cs
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.csproj.CoreCompileInputs.cache
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.csproj.CopyComplete
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\obj\Debug\net5.0\ref\Wcanaam.CleanArchitectureBasic.Application.dll
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Application\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Application.pdb
