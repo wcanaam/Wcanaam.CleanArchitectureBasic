@@ -17,3 +17,6 @@ D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.Io
 D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.IoC\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.IoC.dll
 D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.IoC\obj\Debug\net5.0\ref\Wcanaam.CleanArchitectureBasic.Infra.IoC.dll
 D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.IoC\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.IoC.pdb
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.IoC\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.IoC.runtimeconfig.json
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.IoC\bin\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.IoC.runtimeconfig.dev.json
+D:\source\Wcanaam.CleanArchitectureBasic\Wcanaam.CleanArchitectureBasic.Infra.IoC\obj\Debug\net5.0\Wcanaam.CleanArchitectureBasic.Infra.IoC.genruntimeconfig.cache

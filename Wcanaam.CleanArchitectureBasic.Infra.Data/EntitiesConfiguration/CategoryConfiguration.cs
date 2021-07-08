@@ -20,8 +20,8 @@ namespace Wcanaam.CleanArchitectureBasic.Infra.Data.EntitiesConfiguration {
 
             builder.HasData(
                 new Category(1, "Electronics"),
-                new Category(1, "Accessories"),
-                new Category(1, "Candy")
+                new Category(2, "Accessories"),
+                new Category(3, "Candy")
                 );
         }
     }
