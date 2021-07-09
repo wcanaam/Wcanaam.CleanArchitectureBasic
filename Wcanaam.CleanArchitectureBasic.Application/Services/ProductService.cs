@@ -1,8 +1,6 @@
 ﻿using AutoMapper;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using Wcanaam.CleanArchitectureBasic.Application.DTOs;
 using Wcanaam.CleanArchitectureBasic.Application.Interfaces;

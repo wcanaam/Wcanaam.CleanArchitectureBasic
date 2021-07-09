@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcanaam.CleanArchitectureBasic.Domain", "Wcanaam.CleanArchitectureBasic.Domain\Wcanaam.CleanArchitectureBasic.Domain.csproj", "{65A3421F-EE7B-4199-961D-E46619C8E1DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wcanaam.CleanArchitectureBasic.Domain", "Wcanaam.CleanArchitectureBasic.Domain\Wcanaam.CleanArchitectureBasic.Domain.csproj", "{65A3421F-EE7B-4199-961D-E46619C8E1DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcanaam.CleanArchitectureBasic.Application", "Wcanaam.CleanArchitectureBasic.Application\Wcanaam.CleanArchitectureBasic.Application.csproj", "{213BEACC-99C5-4135-8618-C0BDEDDBDE2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wcanaam.CleanArchitectureBasic.Application", "Wcanaam.CleanArchitectureBasic.Application\Wcanaam.CleanArchitectureBasic.Application.csproj", "{213BEACC-99C5-4135-8618-C0BDEDDBDE2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcanaam.CleanArchitectureBasic.Infra.Data", "Wcanaam.CleanArchitectureBasic.Infra.Data\Wcanaam.CleanArchitectureBasic.Infra.Data.csproj", "{00BD0F8F-7E43-4479-AA57-80DE7965F8D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wcanaam.CleanArchitectureBasic.Infra.Data", "Wcanaam.CleanArchitectureBasic.Infra.Data\Wcanaam.CleanArchitectureBasic.Infra.Data.csproj", "{00BD0F8F-7E43-4479-AA57-80DE7965F8D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcanaam.CleanArchitectureBasic.Infra.IoC", "Wcanaam.CleanArchitectureBasic.Infra.IoC\Wcanaam.CleanArchitectureBasic.Infra.IoC.csproj", "{6538EB0F-21D9-4D5D-846C-A27B822E5F4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wcanaam.CleanArchitectureBasic.Infra.IoC", "Wcanaam.CleanArchitectureBasic.Infra.IoC\Wcanaam.CleanArchitectureBasic.Infra.IoC.csproj", "{6538EB0F-21D9-4D5D-846C-A27B822E5F4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wcanaam.CleanArchitectureBasic.API", "Wcanaam.CleanArchitectureBasic.API\Wcanaam.CleanArchitectureBasic.API.csproj", "{557200E5-E53C-4A82-82D1-55BEAA67A4AE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wcanaam.CleanArchitectureBasic.API", "Wcanaam.CleanArchitectureBasic.API\Wcanaam.CleanArchitectureBasic.API.csproj", "{557200E5-E53C-4A82-82D1-55BEAA67A4AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
