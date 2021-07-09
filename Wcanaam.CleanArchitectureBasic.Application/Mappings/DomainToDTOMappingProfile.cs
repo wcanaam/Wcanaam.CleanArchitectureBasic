@@ -3,9 +3,9 @@ using Wcanaam.CleanArchitectureBasic.Application.DTOs;
 using Wcanaam.CleanArchitectureBasic.Domain.Entities;
 
 namespace Wcanaam.CleanArchitectureBasic.Application.Mappings {
-    public class DomainToDTIOMappingProfile : Profile {
+    public class DomainToDTOMappingProfile : Profile {
 
-        public DomainToDTIOMappingProfile() {
+        public DomainToDTOMappingProfile() {
 
             CreateMap<Category, CategoryDTO>().ReverseMap();
 
